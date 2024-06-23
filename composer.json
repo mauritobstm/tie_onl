@@ -1,0 +1,20 @@
+{
+    "name": "kawschool/tienda-online",
+    "description": "creacion de una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mauro Bustamante",
+            "email": "mauro_bustamante123@hotmail.com"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Kawschool\\":"src/"
+        }
+    }
+}
